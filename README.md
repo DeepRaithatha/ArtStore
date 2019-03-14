@@ -1,2 +1,3 @@
 # ArtStore
-Simple Art Website - pulls paintings from Database, browse paintings in database by applying MySQL queries 
+Art Website - pulls paintings from Database, browse paintings in database by applying MySQL queries 
+Created in: HTML, CSS, PHP, MySQL
